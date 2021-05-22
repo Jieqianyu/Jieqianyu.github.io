@@ -11,5 +11,5 @@ title: About Me
 
 ## Contact me
 
-- Email&nbsp;: jieqianyu@zju.edu.cn
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
+- Email&nbsp;: jianbiaomei@zju.edu.cn
+- GitHub: [https://github.com/Jieqianyu](https://github.com/Jieqianyu)
